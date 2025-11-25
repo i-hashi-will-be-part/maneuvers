@@ -1,2 +1,2 @@
 
-# Various patterns and flying maneuvers, prototyping, etc.
+- Various patterns and flying maneuvers, prototyping, etc.
